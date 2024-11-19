@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=meu+nome+é+kawã+karlyndo+alves+da+silva+:%29)](https://git.io/typing-svg)
   
-  ## 🙋‍♂️ Sobre mim:
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=sobre+min!!!+:%29)](https://git.io/typing-svg)
   
   Tenho 17 anos, trabalho como jovem aprendiz e recentemente inciei meus estudos na area de programação, pretendo desenvolver muitos aplicativos e sites durante essa jornada.
   
