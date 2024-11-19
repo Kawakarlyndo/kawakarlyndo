@@ -42,5 +42,3 @@ Tenho 17 anos, trabalho como jovem aprendiz e recentemente inciei meus estudos n
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
-
-![snake gif](https://github.com/4lvesgabriel/4lvesgabriel/blob/output/github-contribution-grid-snake.svg)
