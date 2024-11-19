@@ -6,7 +6,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=sobre+min!!!+:%29)](https://git.io/typing-svg)
 
-  <div textcolor = "blue">
+  <div color = "blue">
     Tenho 17 anos, trabalho como jovem aprendiz e recentemente inciei meus estudos na area de programação, pretendo desenvolver muitos aplicativos e sites durante essa jornada.
   </div>  
 </div>
