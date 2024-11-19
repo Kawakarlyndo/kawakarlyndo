@@ -1,13 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0F8FF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0F8FF&size=35&center=true&vCenter=true&width=1000&lines=meu+nome+é+kawã+karlyndo+alves+da+silva+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=meu+nome+é+kawã+karlyndo+alves+da+silva+:%29)](https://git.io/typing-svg)
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=sobre+min!!!+:%29)](https://git.io/typing-svg)
-  
-  Tenho 17 anos, trabalho como jovem aprendiz e recentemente inciei meus estudos na area de programação, pretendo desenvolver muitos aplicativos e sites durante essa jornada.
-  
+
+  <div textcolor = "blue">
+    Tenho 17 anos, trabalho como jovem aprendiz e recentemente inciei meus estudos na area de programação, pretendo desenvolver muitos aplicativos e sites durante essa jornada.
+  </div>  
 </div>
 
 
