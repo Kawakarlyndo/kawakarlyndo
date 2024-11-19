@@ -18,10 +18,10 @@ Tenho 17 anos, trabalho como jovem aprendiz e recentemente inciei meus estudos n
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-## Me chamo Gabriel Alves Gabriel (ou GG), e sou um desenvolvedor full stack.
+## Minhas habilidades.
 
 <div align="center">
-  <a href="https://github.com/4lvesgabriel">
+  <a href="https://github.com/kawakarlyndo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=4lvesgabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lvesgabriel&layout=compact&langs_count=7&theme=dracula"/>
   </a>
