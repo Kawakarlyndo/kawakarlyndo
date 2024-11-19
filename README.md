@@ -1,8 +1,13 @@
-# Seja bem vindo meu nome é Kawa Alves.
+<div align="center">
+  
+  # Seja bem vindo meu nome é Kawa Alves.
+  
+  ## 🙋‍♂️ Sobre mim:
+  
+  Tenho 17 anos, trabalho como jovem aprendiz e recentemente inciei meus estudos na area de programação, pretendo desenvolver muitos aplicativos e sites durante essa jornada.
+  
+</div>
 
-## 🙋‍♂️ Sobre mim:
-
-Tenho 17 anos, trabalho como jovem aprendiz e recentemente inciei meus estudos na area de programação, pretendo desenvolver muitos aplicativos e sites durante essa jornada.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jkelvin001&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
