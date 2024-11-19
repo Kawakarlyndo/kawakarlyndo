@@ -8,11 +8,13 @@ Tenho 17 anos, trabalho como jovem aprendiz e recentemente inciei meus estudos n
 
 ## 📱 Entre em contato:
 <div align="center"> 
-  .[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awakalves/)
+  
+  .[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awakalves/).
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawakarlyndo)
   
   [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](karlyndo.silva@acad.ifma.edu.br)
+  
 </div>
 
 
