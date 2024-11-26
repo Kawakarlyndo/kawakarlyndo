@@ -1,45 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+<img align="left" height="200" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"  />
+
+###
+
+<h1 align="center">Hey 👋 What's up?</h1>
+
+###
+
+<h2 align="left">My name is kawã karlyndo alves da silva😎 sou de açãilândia.🤞</h2>
+
+###
+
+<h2 align="left">⭕⭕ Quem sou ⭕⭕</h2>
+
+###
+
+<h4 align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</h4>
+
+###
+
+<h1 align="center">I code with 💫</h1>
+
+###
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=meu+nome+é+kawã+karlyndo+alves+da+silva+:%29)](https://git.io/typing-svg)
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=sobre+min!!!+:%29)](https://git.io/typing-svg)
-
-  Tenho 17 anos, trabalho como jovem aprendiz e recentemente inciei meus estudos na area de programação, pretendo desenvolver muitos aplicativos e sites durante essa jornada.
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
+###
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jkelvin001&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<img src="https://raw.githubusercontent.com/kawakarlyndo/kawakarlyndo/output/snake.svg" alt="Snake animation" />
 
-
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
-
-
-## 💻 Tecnologias:
+###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kawa-karlyndo-alves-silva-70918a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="44" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/awakalves/profilecard/?igsh=NjFlMzV4bTBuZWc4" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="44" alt="instagram logo"  />
+  </a>
 </div>
 
+###
 
-
-## 📱 Entre em contato:
-<div align="center"> 
-  
-  .[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awakalves/).
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawakarlyndo)
-  
-  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](karlyndo.silva@acad.ifma.edu.br)
-  
+<div align="center">
+  <img height="400" src="https://media1.tenor.com/m/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif"  />
 </div>
+
+###
